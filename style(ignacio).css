@@ -3,3 +3,9 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
+
+.gamedemopicture {
+  width: 400px;
+  height: auto;
+  border-radius: 15px;
+}
